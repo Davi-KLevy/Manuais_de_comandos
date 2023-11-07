@@ -3,4 +3,4 @@
 # salvando modificações no git
 
 * adding a new command (PUSH)
-
+* command PULL
