@@ -1,13 +1,13 @@
-#**Comandos MarkDown**
+**Comandos MarkDown**
 
-##1) Headers
+1) Headers
 
 # This is a Heading h1
 ## This is a Heading h2
 ###### This is a Heading h6
 
 
-##2) Emphasis
+2) Emphasis
 
 *This text will be italic*  
 _This will also be italic_
@@ -18,7 +18,7 @@ __This will also be bold__
 _You **can** combine them_
 
 
-##3) Lists
+3) Lists
 
 Unordered
 
@@ -36,19 +36,19 @@ Ordered
     2. Item 3b
 
 
-##4) Images
+4) Images
 
 ![][This is an alt text.](/image/sample.webp "This is a sample image.")
 
 
 
-##5) Links
+5) Links
 
 You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
 
 
 
-##6) Blockquotes
+6) Blockquotes
 
 > Markdown is a lightweight markup language with plain-text-formatting syntax, created in 2004 by John Gruber with Aaron Swartz.
 >
@@ -56,7 +56,7 @@ You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
 
 
 
-##7) Tables
+7) Tables
 
 | Left columns  | Right columns |
 | ------------- |:-------------:|
@@ -66,7 +66,7 @@ You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
 
 
 
-##8) Blocks of code
+8) Blocks of code
 
 ```
 let message = 'Hello world';
@@ -74,22 +74,22 @@ alert(message);
 ```
 
 
-##9) Inline code
+9) Inline code
 
 This web site is using `markedjs/marked`.
 
 
-##10) Superscripts and Subscripts
+10) Superscripts and Subscripts
 
 Superscript: X<sub>2</sub>，Subscript: O<sup>2</sup>
 
 
-##11) Abbreviation(link HTML abbr tag)
+11) Abbreviation(link HTML abbr tag)
 
 The <abbr title="Hyper Text Markup Language">HTML</abbr> specification is maintained by the <abbr title="World Wide Web Consortium">W3C</abbr>.
 
 
-##12) GFM task list
+12) GFM task list
 
 - [x] GFM task list 1
 - [x] GFM task list 2
@@ -97,7 +97,7 @@ The <abbr title="Hyper Text Markup Language">HTML</abbr> specification is mainta
     - [ ] GFM task list 3-1
 
 
-##13) FlowChart
+13) FlowChart
 
 ```flow
 st=>start: Login 
