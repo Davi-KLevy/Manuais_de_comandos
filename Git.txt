@@ -1,0 +1,25 @@
+Comandos GIT
+
+Comandos Básicos -
+	
+Git	Init
+	  Add "nome_do_arquivo" OU "."(para add tudo)
+	  commit -m "mensagem do commit"
+	  Status (status atual do diretório)
+	  Log (histórico de commits)
+		
+	  Branch "nome da branch" (cria branch)
+	  checkout "nome da branch" (muda para branch)
+	
+	  clone "url-do-repositorio"
+	  remote add "nome_remoto"(geralmente "origin") "url_do_repositorio"
+	  push "nome remoto" "nome branch"
+	  pull "nome_remoto" "nome_branch"
+	
+	  merge "nome da branch"
+	
+	  rebase -i "commit referencia" 
+	  cherry-pick "commit-referencia"
+	
+	  revert "ID commit" (cria um commit revertando o efeto do commit citado)
+	  reset --hard "ID commit para que se queira voltar" (apaga o commit)	
